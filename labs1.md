@@ -98,7 +98,9 @@ tar -xvzf boost_1_69_0.tar.gz -C ~/
 #
 Результат
 #
+  < details>
 
+    <summary>Результат</summary>
    
 
     grep -rl "boost::asio" ~/boost_1_69_0
@@ -1866,6 +1868,8 @@ tar -xvzf boost_1_69_0.tar.gz -C ~/
     /home/mursulov/boost_1_69_0/libs/log/doc/tmp/sinks_reference.xml
     /home/mursulov/boost_1_69_0/libs/log/src/syslog_backend.cpp
     /home/mursulov/boost_1_69_0/libs/thread/test/test_9303.cpp
+       </detalis>
+
 
 #
 
