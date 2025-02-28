@@ -98,9 +98,7 @@ tar -xvzf boost_1_69_0.tar.gz -C ~/
 #
 Результат
 #
-  < details>
-
-    <summary>Результат</summary>
+ 
    
 
     grep -rl "boost::asio" ~/boost_1_69_0
